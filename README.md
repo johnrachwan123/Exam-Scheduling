@@ -21,10 +21,6 @@ Notes:
 	Time for execution of the program: around 20-30 seconds
 	The code is heavily commented so you can use it to see further results
 	Make sure to open the result file in a diffrent editor other than notepad
-
-Contact Us :
-	adib.h.rachid@net.usek.edu.lb
-	john.f.rachwan@net.usek.edu.lb
 	
 Copyright Adib Rachid & John Rachwan 
 version 5.0
