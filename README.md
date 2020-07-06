@@ -22,6 +22,5 @@ Notes:
 	The code is heavily commented so you can use it to see further results
 	Make sure to open the result file in a diffrent editor other than notepad
 	
-Copyright Adib Rachid & John Rachwan 
 version 5.0
 18/12/2016
